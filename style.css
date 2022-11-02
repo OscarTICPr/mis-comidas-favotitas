@@ -1,0 +1,30 @@
+#parrafo1{
+    color:rgb(138, 43, 226);
+    background-color: black;
+}
+
+#parrafo2{
+    color:black;
+}
+h1{
+    color:black;
+}
+h3{
+    color:blue;
+}
+#encabezado-cuatro{
+    color:bisque;
+}
+.color-red{
+    color:red;
+}
+body{
+    background-image: url(https://imagenes.20minutos.es/files/image_990_v3/uploads/imagenes/2017/04/21/article_post_width_Death-Note-Ryuk-Adam-Wingard.jpg);
+    background-size: cover;
+.color-black{
+    color: black;
+}
+}
+.color-negro{
+    color:white;
+}
